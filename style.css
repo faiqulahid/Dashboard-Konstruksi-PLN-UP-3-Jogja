@@ -102,3 +102,16 @@ h1 {
 .yellow {
   color: #ffd200;
 }
+.number {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.green { color: green; }
+.red { color: red; }
+
+.detail-page h2 {
+  color: #007AC3;
+  text-align: center;
+  margin-bottom: 20px;
+}
