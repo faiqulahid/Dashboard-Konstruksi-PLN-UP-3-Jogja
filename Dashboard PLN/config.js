@@ -1,0 +1,5 @@
+// config.js
+const CONFIG = {
+  API_KEY: "AIzaSyDlV3SCfV4DNIRApbut9341pUdxwrkjjzQ",
+  SHEET_ID: "1Ch1QiJIZaX1Nr4zHdbuNYPlzeLPdHJabHTJ_ZFXs82w",
+};
